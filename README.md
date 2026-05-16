@@ -81,10 +81,6 @@ open_to:       collaborations · internships · cool projects · new ideas
 
 ## `$ git log --stats`
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khadija-oua&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&title_color=333333&text_color=555555&icon_color=888888" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadija-oua&layout=compact&theme=default&hide_border=true&langs_count=8&card_width=380&title_color=333333&text_color=555555" width="48%" alt="Top Languages"/>
-</div>
 
 <br/>
 
